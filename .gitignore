@@ -1,0 +1,13 @@
+# Node modules and build files
+node_modules/
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Env files
+.env
