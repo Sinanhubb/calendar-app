@@ -1,0 +1,6 @@
+{
+  "homepage": "https://sinanhubb.github.io/calendar-app",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
